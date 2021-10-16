@@ -4,7 +4,7 @@
 
 ## Installing
 
-Create a spotify application with own clientId and clientSecret. 
+Create a spotify application with own clientId and clientSecret. (https://community.spotify.com/t5/Spotify-for-Developers/bd-p/Spotify_Developer)
 
 ## Libaries 
 - IPython
