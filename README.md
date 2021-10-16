@@ -19,13 +19,10 @@ Create a spotify application with own clientId and clientSecret. (https://develo
 3. **Finde songs in this clusters** 
 
 ## Libaries 
-- IPython
+[IPython](https://docs.python.org/3/library/) 
 - pandas (https://pandas.pydata.org/docs/) 
 - spotipy (https://spotipy.readthedocs.io/en/2.19.0/) 
-- scipy
-- seaborn as sns
 - matplotlib (https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html) 
-- numpy as np
-- imblearn
+- numpy (https://numpy.org/doc/)
 - sklearn (https://scikit-learn.org/stable/) 
-- warnings
+- warnings (https://docs.python.org/3/library/warnings.html)
