@@ -10,7 +10,7 @@ Create a spotify application with own clientId and clientSecret. (https://develo
 
 ## Workflow
 
-1. **Building dataframe with my favorite songs. 
+1. **Building dataframe with my favorite songs** 
     - Files: Top_Spotify_Songs.ipynb / Top_Spotify_Songs.csv /
     - Abstract my favorite songs from three different playlist and save them in a csv file. 
 
