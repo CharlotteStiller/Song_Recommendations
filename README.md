@@ -20,9 +20,9 @@ Create a spotify application with own clientId and clientSecret. (https://develo
 
 ## Libaries 
 [IPython](https://docs.python.org/3/library/) 
-- pandas (https://pandas.pydata.org/docs/) 
-- spotipy (https://spotipy.readthedocs.io/en/2.19.0/) 
-- matplotlib (https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html) 
-- numpy (https://numpy.org/doc/)
-- sklearn (https://scikit-learn.org/stable/) 
-- warnings (https://docs.python.org/3/library/warnings.html)
+[pandas](https://pandas.pydata.org/docs/) 
+[spotipy](https://spotipy.readthedocs.io/en/2.19.0/) 
+[matplotlib](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html) 
+[numpy](https://numpy.org/doc/)
+[sklearn](https://scikit-learn.org/stable/) 
+[warnings](https://docs.python.org/3/library/warnings.html)
