@@ -1,11 +1,8 @@
 # Song Recommendation - Spotify API
 
-Working with my favorite three playlist, to find more song which belongs into my favorit music clusters.
+Working with my favorite three spotify playlists, to recommend more songs which belongs into my favorit music clusters.
 
 <img src="https://i.pinimg.com/564x/82/aa/80/82aa8009fdea2e261cfc371eb80a7e0b.jpg" width="500">
-
-
-This notebook creates a pipeline to get song recommendation based on songs in the Billboard Hot 100 list. A user can choose a song title and - if it is present in the Hot 100 list - is recommended a similar song based on a model of song clustering, or a song with this title is added to the cluster model.
 
 ## Installing
 
